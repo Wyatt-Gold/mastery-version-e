@@ -1,0 +1,10 @@
+    3  run testcases/basic_add.s
+    4  b
+    5  bt
+    6  q
+    7  run testcases/basic_add.s
+    8  bt
+    9  q
+   10  show commands
+   11  q
+   12  show commands

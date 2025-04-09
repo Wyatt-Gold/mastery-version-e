@@ -1,0 +1,500 @@
+   36  clera
+   37  clear
+   38  make clean
+   39  make week1
+   40  bin/test-hw -v 2
+   41  clear
+   42  make clean
+   43  make week1
+   44  bin/test-hw -v 2
+   45  clear
+   46  make clean
+   47  make week1
+   48  bin/test-hw -v 2
+   49  clear
+   50  make clean
+   51  clear
+   52  git add .
+   53  git commit -m "Fixed errors and compelted week1"
+   54  git push
+   55  clear
+   56  git pull
+   57  clear
+   58  make
+   59  make clean
+   60  clear
+   61  git pull
+   62  git add .
+   63  git commit -m "Computer acting weird"
+   64  git push
+   65  clear
+   66  make
+   67  clear
+   68  make clean
+   69  make
+   70  clear
+   71  make clean
+   72  make
+   73  make clean
+   74  clear
+   75  make
+   76  make clean
+   77  clear
+   78  git add .
+   79  git commit -m "laknf"
+   80  git push
+   81  clear
+   82  make
+   83  make clean
+   84  clear
+   85  git add .
+   86  git commit -m "Nerd"
+   87  git push
+   88  git pull
+   89  git config pull.rebase false
+   90  clear
+   91  git pull
+   92  git pull
+   93  clear
+   94  clear
+   95  touch ~/.gdbinit
+   96  echo "set history save on" > ~/.gdbinit
+   97  cat ~/.gdbinit
+   98  clear
+   99  mkdir mastery
+  100  ls
+  101  clear
+  102  cd mastery/
+  103  clear
+  104  pwd
+  105  clear
+  106  git clone git@github.com:Wyatt-Gold/mastery-version-a.git
+  107  clear
+  108  ls
+  109  clear
+  110  logout
+  111  make
+  112  make check
+  113  clear
+  114  make debug
+  115  gdb ./mini_ci
+  116  make 
+  117  make check
+  118  clear
+  119  make check
+  120  clear
+  121  make clean
+  122  clear
+  123  make debug
+  124  gdb ./mini_cireference
+  125  clear
+  126  make clean
+  127  gdb mini_ci
+  128  clear
+  129  make clean
+  130  make debug
+  131  gdb mini_ci
+  132  clear
+  133  make clean
+  134  make 
+  135  make check
+  136  clear
+  137  make clean
+  138  make debuf
+  139  make debug 
+  140  gdb mini_ci
+  141  clers
+  142  clear
+  143  make clean
+  144  clear
+  145  make
+  146  ./mini_ci testcases/err_ops.s
+  147  clear
+  148  make clean
+  149  make debug
+  150  gdb mini_ci
+  151  clear
+  152  make clean
+  153  make 
+  154  make check
+  155  clear
+  156  make clean
+  157  clear
+  158  make debug
+  159  gdb mini_ci
+  160  clear
+  161  make clean
+  162  make 
+  163  make check
+  164  clesar
+  165  clear
+  166  history > shell_logs.txt
+  167  make debug
+  168  gdb mini_ci
+  169  touch gdb_logs.txt
+  170  clear
+  171  git add .
+  172  git commit -m "Finished"
+  173  git push
+  174  clear
+  175  cd..
+  176  cd ..
+  177  clear
+  178  ls
+  179  rm rf mastery-version-a/
+  180  rm -rf mastery-version-a/
+  181  ls
+  182  cd ..
+  183  ls
+  184  rm -rf mastery/
+  185  ls
+  186  clear
+  187  git pull
+  188  clear
+  189  git commit -m "Finished un-tested Memory file"
+  190  git add 
+  191  clear
+  192  git add .
+  193  git commit -m "Finished rough draft of Memory file"
+  194  git push
+  195  clear
+  196  clear
+  197  make
+  198  clear
+  199  make clean
+  200  clear
+  201  make
+  202  clear
+  203  make clean
+  204  make
+  205  clear
+  206  make clean
+  207  clear
+  208  make 
+  209  make week2
+  210  make clean
+  211  clear
+  212  make week2
+  213  clear
+  214  make clean
+  215  clear
+  216  git add .
+  217  git commit -m "Fixed "make" compile errors"
+  218  git push
+  219  clear
+  220  make
+  221  clear
+  222  make clean
+  223  clear
+  224  make week2
+  225  test-se
+  226  test-se -h
+  227  clear
+  228  make clean
+  229  clear
+  230  make week2
+  231  test-se -h
+  232  ./test-se
+  233  test-se
+  234  clear
+  235  make test-se
+  236  clear
+  237  make clean
+  238  clear
+  239  make test
+  240  test-se
+  241  clear
+  242  make clean
+  243  clear
+  244  make week2
+  245  clear
+  246  make clean
+  247  clear
+  248  make week2
+  249  clear
+  250  ./se test-se
+  251  se test-se
+  252  clear
+  253  clear
+  254  cl;clear
+  255  clear
+  256  ls
+  257  make
+  258  clear
+  259  ls
+  260  make clean
+  261  make week2
+  262  clear
+  263  make clean
+  264  clear
+  265  make week2
+  266  ./bin/test-se
+  267  ./bin/test-se -v 2
+  268  clear
+  269  make clean
+  270  clear
+  271  make week2
+  272  ./bin/test-se -h
+  273  ./bin/test-se -w 2
+  274  clear
+  275  make clean
+  276  clear
+  277  make
+  278  ./bin/test-se
+  279  ./bin/test-se -h
+  280  ./bin/test-se -v 1
+  281  clear
+  282  make clean
+  283  clear
+  284  make clean
+  285  make week2
+  286  clear
+  287  ./se testcases/basics/add -v 2
+  288  ./bin/se testcases/basics/add -v2
+  289  clear
+  290  ./bin/se testcases/basics/add -v 2
+  291  ./bin/se testcases/basics/add.s -v 2
+  292  clear
+  293  ./bin/se testcases/basics/add.s -v 2
+  294  ./bin/se -i testcases/basics/add -v 2
+  295  clear
+  296  ./bin/se -i testcases/basics/add -v 2
+  297  ./bin/se -i testcases/basics/add.s -v 2
+  298  clear
+  299  ./bin/se -i testcases/basics/add -v 2
+  300  clear
+  301  ./bin/se -i testcases/basics/add -v 2
+  302  make clean
+  303  make debug
+  304  make debug
+  305  clear
+  306  clear
+  307  make
+  308  clear
+  309  make clean
+  310  make week2
+  311  clear
+  312  gdb ./bin/se
+  313  clear
+  314  make clean
+  315  make week2
+  316  clear
+  317  ./bin/se -i testcases/basics/add -v 2
+  318  ./bin/test-se -v 1
+  319  clear
+  320  ./bin/se -i testcases/basics/add -v 2
+  321  ./bin/se -i testcases/basics/add -v 3
+  322  clear
+  323  ./bin/se -i testcases/basics/add -v 3
+  324  clear
+  325  ./bin/se-ref -i testcases/basics/add -v 3
+  326  clear
+  327  ./bin/se-ref-wk2 -i testcases/basics/add -v 3
+  328  clear
+  329  git add .
+  330  git commit -m "Fixed seg_fault in Fetch, so code is ready to be tested and fixed"
+  331  git push
+  332  clear
+  333  make clean
+  334  clear
+  335  clear
+  336  make clean
+  337  clear
+  338  make week2
+  339  clear
+  340  ./bin/se -i testcases/basics/add -v 3
+  341  clear
+  342  ./bin/se-ref-wk2 -i testcases/basics/add -v 3
+  343  clesr
+  344  clear
+  345  make clean
+  346  make week2
+  347  clear
+  348  ./bin/se -i testcases/basics/add -v 3
+  349  clear
+  350  make clean
+  351  make week2
+  352  clear
+  353  ./bin/se -i testcases/basics/add -v 3
+  354  clear
+  355  make clean
+  356  make week2
+  357  clear
+  358  ./bin/se -i testcases/basics/add -v 3
+  359  clear
+  360  make clean
+  361  make week2
+  362  clear
+  363  ./bin/se -i testcases/basics/add -v 3
+  364  clear
+  365  make clean
+  366  make week2
+  367  clear
+  368  ./bin/se -i testcases/basics/add -v 3
+  369  clear
+  370  make clean
+  371  make week2
+  372  clear
+  373  ./bin/se -i testcases/basics/add -v 3
+  374  clear
+  375  make clean
+  376  claer
+  377  make week2
+  378  clear
+  379  gdb ./bin/se
+  380  make week2
+  381  ./bin/se -i testcases/basics/add -v 3
+  382  clear
+  383  ./bin/se -i testcases/basics/add -v 3
+  384  clear
+  385  make clean
+  386  clear
+  387  make clean
+  388  make week2
+  389  clear
+  390  ./bin/se -i testcases/basics/add -v 3
+  391  clear
+  392  make clean
+  393  clear
+  394  make
+  395  clear
+  396  make week2
+  397  ./bin/se -i testcases/basics/add -v 3
+  398  clear
+  399  ./bin/se -i testcases/basics/add -v 3
+  400  clear
+  401  make clean
+  402  make week12
+  403  make week2
+  404  clear
+  405  ./bin/se -i testcases/basics/add -v 3
+  406  make week2
+  407  ./bin/se -i testcases/basics/add -v 3
+  408  make clean
+  409  make week2
+  410  clear
+  411  ./bin/se -i testcases/basics/add -v 3
+  412  clear
+  413  make clean
+  414  make week2
+  415  clear
+  416  ./bin/se -i testcases/basics/add -v 3
+  417  clear
+  418  make clean
+  419  make week2
+  420  clear
+  421  ./bin/se -i testcases/basics/add -v 3
+  422  clear
+  423  make clean
+  424  make week2
+  425  clear
+  426  ./bin/se -i testcases/basics/add -v 3
+  427  clear
+  428  make clean
+  429  make week2
+  430  clear
+  431  ./bin/se -i testcases/basics/add -v 3
+  432  clear
+  433  make clean
+  434  clear
+  435  clear
+  436  make clean
+  437  make week2
+  438  ./bin/se -i testcases/basics/add -v 3
+  439  ./bin/se -i testcases/basics/add -v 3clear
+  440  clear
+  441  make clean
+  442  make week2
+  443  clear
+  444  ./bin/se -i testcases/basics/add -v 3clear
+  445  clear
+  446  make clean
+  447  make week2
+  448  clear
+  449  ./bin/se -i testcases/basics/add -v 3clear
+  450  clear
+  451  make clean
+  452  make week2
+  453  clear
+  454  ./bin/se -i testcases/basics/add -v 3clear
+  455  make clean
+  456  make week2
+  457  clear
+  458  ./bin/se -i testcases/basics/add -v 3clear
+  459  clear
+  460  make clean
+  461  clear
+  462  clear
+  463  make clean
+  464  make week2
+  465  clear
+  466  ./bin/se -i testcases/basics/add -v 3
+  467  clear
+  468  make clean
+  469  make week2
+  470  clear
+  471  ./bin/se -i testcases/basics/add -v 3
+  472  clear
+  473  make clean
+  474  clear
+  475  ./bin/se-ref -i testcases/basics/add -v 3
+  476  ./bin/se -i testcases/basics/add -v 3
+  477  claer
+  478  clear
+  479  make clean
+  480  clear
+  481  git add .
+  482  git commit -m "I hate this code ugh"
+  483  git push
+  484  clear
+  485  clear
+  486  touhch ~/.gdbinit
+  487  touhc ~/.gdbinit
+  488  touch ~/.gdbinit
+  489  clear
+  490  echo "set history save on" > ~/.gdbinit
+  491  cat ~/.gdbinit
+  492  clear
+  493  mkdir mastery
+  494  ls
+  495  cd mastery/
+  496  ls
+  497  clear
+  498  git clone git@github.com:Wyatt-Gold/mastery-version-e.git
+  499  clear
+  500  logout
+  501  make
+  502  clear
+  503  mini_ci check
+  504  check mini_ci
+  505  check
+  506  make check
+  507  clear
+  508  make clean
+  509  make
+  510  clear
+  511  make check
+  512  make clean
+  513  make debug
+  514  gdb mini_ci
+  515  clear
+  516  make clean
+  517  make
+  518  make check
+  519  clear
+  520  make debug
+  521  clear
+  522  gbd ./mini_ci
+  523  clear
+  524  gbd mini_ci
+  525  clear
+  526  make cleab
+  527  make clean
+  528  make debug
+  529  gdb mini_ci
+  530  clear
+  531  make clean
+  532  make
+  533  make check
+  534  clear
+  535  history > shell_logs.txt
